@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/exqusite_restaurant.io/static/css/main.64e5cbdd.css",
-    "main.js": "/exqusite_restaurant.io/static/js/main.6a710b87.js",
+    "main.js": "/exqusite_restaurant.io/static/js/main.64667bc8.js",
     "static/media/bg.png": "/exqusite_restaurant.io/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/welcome.png": "/exqusite_restaurant.io/static/media/welcome.7e98a8c8fe8e4c07643d.png",
     "static/media/meal.mp4": "/exqusite_restaurant.io/static/media/meal.47fac24829788737866b.mp4",
@@ -26,10 +26,10 @@
     "index.html": "/exqusite_restaurant.io/index.html",
     "static/media/spoon.svg": "/exqusite_restaurant.io/static/media/spoon.e774c9e2184b894411e9dd198ce48830.svg",
     "main.64e5cbdd.css.map": "/exqusite_restaurant.io/static/css/main.64e5cbdd.css.map",
-    "main.6a710b87.js.map": "/exqusite_restaurant.io/static/js/main.6a710b87.js.map"
+    "main.64667bc8.js.map": "/exqusite_restaurant.io/static/js/main.64667bc8.js.map"
   },
   "entrypoints": [
     "static/css/main.64e5cbdd.css",
-    "static/js/main.6a710b87.js"
+    "static/js/main.64667bc8.js"
   ]
 }
