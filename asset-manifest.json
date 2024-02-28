@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/exqusite_restaurant.io/static/css/main.64e5cbdd.css",
+    "main.js": "/exqusite_restaurant.io/static/js/main.6a710b87.js",
+    "static/media/bg.png": "/exqusite_restaurant.io/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/exqusite_restaurant.io/static/media/welcome.7e98a8c8fe8e4c07643d.png",
+    "static/media/meal.mp4": "/exqusite_restaurant.io/static/media/meal.47fac24829788737866b.mp4",
+    "static/media/laurels.png": "/exqusite_restaurant.io/static/media/laurels.db875d240299d467a91b.png",
+    "static/media/gallery02.jpg": "/exqusite_restaurant.io/static/media/gallery02.fe90c217401a8fd0b46a.jpg",
+    "static/media/gallery04.jpg": "/exqusite_restaurant.io/static/media/gallery04.4313d3b9565a794e6afe.jpg",
+    "static/media/gallery03.jpg": "/exqusite_restaurant.io/static/media/gallery03.0c7d28b2f6e9f62f5ed7.jpg",
+    "static/media/chef.png": "/exqusite_restaurant.io/static/media/chef.2421d6781497fe2b6d17.png",
+    "static/media/overlaybg.png": "/exqusite_restaurant.io/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/gallery01.jpg": "/exqusite_restaurant.io/static/media/gallery01.450a5b06ebf71b7e7793.jpg",
+    "static/media/findus.png": "/exqusite_restaurant.io/static/media/findus.a3a312287f0d5cf56994.png",
+    "static/media/menu.png": "/exqusite_restaurant.io/static/media/menu.31f49c6a005bec123222.png",
+    "static/media/knife.png": "/exqusite_restaurant.io/static/media/knife.e66e4781c2678cd1fc56.png",
+    "static/media/E.png": "/exqusite_restaurant.io/static/media/E.1e73e724a165fabcd69a.png",
+    "static/media/exqusite.png": "/exqusite_restaurant.io/static/media/exqusite.a6800a176dcf821f4848.png",
+    "static/media/sign.png": "/exqusite_restaurant.io/static/media/sign.2c04bf9c0c82cae407ac.png",
+    "static/media/logo.png": "/exqusite_restaurant.io/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/exqusite_restaurant.io/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/exqusite_restaurant.io/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/exqusite_restaurant.io/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/exqusite_restaurant.io/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "index.html": "/exqusite_restaurant.io/index.html",
+    "static/media/spoon.svg": "/exqusite_restaurant.io/static/media/spoon.e774c9e2184b894411e9dd198ce48830.svg",
+    "main.64e5cbdd.css.map": "/exqusite_restaurant.io/static/css/main.64e5cbdd.css.map",
+    "main.6a710b87.js.map": "/exqusite_restaurant.io/static/js/main.6a710b87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64e5cbdd.css",
+    "static/js/main.6a710b87.js"
+  ]
+}
